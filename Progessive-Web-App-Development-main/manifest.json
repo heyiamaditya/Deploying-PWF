@@ -1,0 +1,12 @@
+{   "homepage":"http//annanya-mathur.github.io/Progressive-WEB-APP",
+	"name": "Tracking APP",
+	"short_name": "TrackingApp",
+	"start_url" :".",
+	"display": "standalone",
+	"background_color":"#FFE811",
+	"theme_color": "#FFE1C4",
+	"orientation" :"portrait-primary",
+	"icons" : [{ "src": "logo.webp",
+	              "sizes": "512x512",
+                 "type": "image/webp"}]
+}
